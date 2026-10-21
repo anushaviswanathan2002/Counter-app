@@ -4,6 +4,7 @@ A basic counter app built with **React + Vite**.
 
 **Features:**
 - Increment, decrement, and reset
+- Configurable step size (persisted in `localStorage`)
 - Persists in `localStorage`
 
 ## Stack
